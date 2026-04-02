@@ -1,3 +1,4 @@
+<img width="751" height="596" alt="Screenshot 2026-04-02 at 11 32 03 AM" src="https://github.com/user-attachments/assets/a6c3233c-96d1-4a96-95e8-357a769437ed" />
 # Real-Time Crypto Price Analytics Pipeline 📈
 
 A real-time cryptocurrency price streaming pipeline that 
